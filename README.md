@@ -1,22 +1,12 @@
-### Hi there 👋
+### Hi there, I'm Hoàng Anh 👋 
 
-`  My name  ` : [Nguyễn Hoàng Anh](https://www.facebook.com/ldcapt/)
+:scroll: I'm a frontend web developer in Luvina Software JSC.<br/>
+:memo: I'm currently working with: React - TypeScript.<br/>
+:email: How to reach me: legendarycaptains@gmail.com
 
-` About me ` : I'm localy live in VietNam, from a small town near Hanoi city. A normal person learn to be a coder.
+---
 
-- 🌱 I’m currently learning HTML, CSS and JavaScript
 
-<!--
-**ldcapt/ldcapt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://github-readme-stats.vercel.app/api?username=ldcapt&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=ldcapt&theme=light&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ldcapt&theme=transparent&hide_border=&include_all_commits=true&count_private=true&layout=compact)<br/>
